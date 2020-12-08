@@ -1,0 +1,7 @@
+C:\Users\Bruce\Desktop\C#\HomeWorks\HW_EAppliances\bin\Debug\HW_EAppliances.exe.config
+C:\Users\Bruce\Desktop\C#\HomeWorks\HW_EAppliances\bin\Debug\HW_EAppliances.exe
+C:\Users\Bruce\Desktop\C#\HomeWorks\HW_EAppliances\bin\Debug\HW_EAppliances.pdb
+C:\Users\Bruce\Desktop\C#\HomeWorks\HW_EAppliances\obj\Debug\HW_EAppliances.csprojAssemblyReference.cache
+C:\Users\Bruce\Desktop\C#\HomeWorks\HW_EAppliances\obj\Debug\HW_EAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Bruce\Desktop\C#\HomeWorks\HW_EAppliances\obj\Debug\HW_EAppliances.exe
+C:\Users\Bruce\Desktop\C#\HomeWorks\HW_EAppliances\obj\Debug\HW_EAppliances.pdb
